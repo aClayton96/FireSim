@@ -1,0 +1,4 @@
+﻿  FireManager.cpp
+e:\c++\assignmentprototype\assignmentprototype\firemanager.cpp(143): warning C4715: 'FireManager::CheckNeighbors': not all control paths return a value
+  AssignmentPrototype.vcxproj -> E:\C++\AssignmentPrototype\Debug\AssignmentPrototype.exe
+  AssignmentPrototype.vcxproj -> E:\C++\AssignmentPrototype\Debug\AssignmentPrototype.pdb (Full PDB)
